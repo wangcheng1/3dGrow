@@ -1,3 +1,74 @@
 {
-  "__version__": "1.0.6"
+  "__version__": "1.0.6",
+  "layer": [
+    {
+      "name": "cheng0",
+      "value": 1
+    },
+    {
+      "name": "cheng1",
+      "value": 2
+    },
+    {
+      "name": "cheng2",
+      "value": 4
+    },
+    {
+      "name": "cheng3",
+      "value": 8
+    },
+    {
+      "name": "cheng4",
+      "value": 16
+    },
+    {
+      "name": "cheng5",
+      "value": 32
+    },
+    {
+      "name": "cheng6",
+      "value": 64
+    }
+  ],
+  "custom_joint_texture_layouts": [],
+  "general": {
+    "renderPipeline": "5d45ba66-829a-46d3-948e-2ed3fa7ee421"
+  },
+  "sorting-layer": {
+    "layers": [
+      {
+        "id": 0,
+        "name": "default",
+        "value": 0
+      },
+      {
+        "id": 1,
+        "name": "layer1",
+        "value": 1
+      },
+      {
+        "id": 2,
+        "name": "layer2",
+        "value": 2
+      }
+    ],
+    "increaseId": 2
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "p0"
+      },
+      {
+        "index": 2,
+        "name": "p1"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 2,
+      "2": 0
+    }
+  }
 }

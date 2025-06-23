@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4951903f-0e7d-4bb8-859c-efe94d2b9e0f",
+  "files": [],
+  "subMetas": {
+    "01f32": {
+      "importer": "gltf-mesh",
+      "uuid": "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@01f32",
+      "displayName": "",
+      "id": "01f32",
+      "name": "wheelDark_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43adf": {
+      "importer": "gltf-material",
+      "uuid": "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@43adf",
+      "displayName": "",
+      "id": "43adf",
+      "name": "plastic.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71e2": {
+      "importer": "gltf-material",
+      "uuid": "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@e71e2",
+      "displayName": "",
+      "id": "e71e2",
+      "name": "carTire.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ffa2f": {
+      "importer": "gltf-scene",
+      "uuid": "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@ffa2f",
+      "displayName": "",
+      "id": "ffa2f",
+      "name": "wheelDark.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@01f32"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@43adf",
+        "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@e71e2"
+      ],
+      "scenes": [
+        "4951903f-0e7d-4bb8-859c-efe94d2b9e0f@ffa2f"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

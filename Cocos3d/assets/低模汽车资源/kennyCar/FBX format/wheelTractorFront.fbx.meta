@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7aca1432-cbc3-412c-a6d9-a997892bee3c",
+  "files": [],
+  "subMetas": {
+    "17366": {
+      "importer": "gltf-scene",
+      "uuid": "7aca1432-cbc3-412c-a6d9-a997892bee3c@17366",
+      "displayName": "",
+      "id": "17366",
+      "name": "wheelTractorFront.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50656": {
+      "importer": "gltf-material",
+      "uuid": "7aca1432-cbc3-412c-a6d9-a997892bee3c@50656",
+      "displayName": "",
+      "id": "50656",
+      "name": "paintYellow.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9fea1": {
+      "importer": "gltf-mesh",
+      "uuid": "7aca1432-cbc3-412c-a6d9-a997892bee3c@9fea1",
+      "displayName": "",
+      "id": "9fea1",
+      "name": "wheelTractorFront_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71e2": {
+      "importer": "gltf-material",
+      "uuid": "7aca1432-cbc3-412c-a6d9-a997892bee3c@e71e2",
+      "displayName": "",
+      "id": "e71e2",
+      "name": "carTire.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "7aca1432-cbc3-412c-a6d9-a997892bee3c@9fea1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7aca1432-cbc3-412c-a6d9-a997892bee3c@e71e2",
+        "7aca1432-cbc3-412c-a6d9-a997892bee3c@50656"
+      ],
+      "scenes": [
+        "7aca1432-cbc3-412c-a6d9-a997892bee3c@17366"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0637c6ad-d05f-40c4-bb51-68216dd33407",
+  "files": [],
+  "subMetas": {
+    "eca68": {
+      "importer": "gltf-mesh",
+      "uuid": "0637c6ad-d05f-40c4-bb51-68216dd33407@eca68",
+      "displayName": "",
+      "id": "eca68",
+      "name": "wheelTruck_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 380
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71e2": {
+      "importer": "gltf-material",
+      "uuid": "0637c6ad-d05f-40c4-bb51-68216dd33407@e71e2",
+      "displayName": "",
+      "id": "e71e2",
+      "name": "carTire.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "0637c6ad-d05f-40c4-bb51-68216dd33407@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43adf": {
+      "importer": "gltf-material",
+      "uuid": "0637c6ad-d05f-40c4-bb51-68216dd33407@43adf",
+      "displayName": "",
+      "id": "43adf",
+      "name": "plastic.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "492af": {
+      "importer": "gltf-scene",
+      "uuid": "0637c6ad-d05f-40c4-bb51-68216dd33407@492af",
+      "displayName": "",
+      "id": "492af",
+      "name": "wheelTruck.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "0637c6ad-d05f-40c4-bb51-68216dd33407@eca68"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0637c6ad-d05f-40c4-bb51-68216dd33407@e71e2",
+        "0637c6ad-d05f-40c4-bb51-68216dd33407@0ee4f",
+        "0637c6ad-d05f-40c4-bb51-68216dd33407@43adf"
+      ],
+      "scenes": [
+        "0637c6ad-d05f-40c4-bb51-68216dd33407@492af"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06",
+  "files": [],
+  "subMetas": {
+    "0b59d": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@0b59d",
+      "displayName": "",
+      "id": "0b59d",
+      "name": "body_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 474
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03a61": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@03a61",
+      "displayName": "",
+      "id": "03a61",
+      "name": "grill_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 108
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68c67": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@68c67",
+      "displayName": "",
+      "id": "68c67",
+      "name": "skirts.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 340
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f527": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@6f527",
+      "displayName": "",
+      "id": "6f527",
+      "name": "wheel_backLeft_Material0.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 380
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4ab9": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@f4ab9",
+      "displayName": "",
+      "id": "f4ab9",
+      "name": "wheel_backRight_Material0.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 380
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e7a1": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@9e7a1",
+      "displayName": "",
+      "id": "9e7a1",
+      "name": "wheel_frontLeft_Material0.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8720f": {
+      "importer": "gltf-mesh",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@8720f",
+      "displayName": "",
+      "id": "8720f",
+      "name": "wheel_frontRight_Material0.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8f3e": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@f8f3e",
+      "displayName": "",
+      "id": "f8f3e",
+      "name": "paintWhite.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43adf": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@43adf",
+      "displayName": "",
+      "id": "43adf",
+      "name": "plastic.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4d9d": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@d4d9d",
+      "displayName": "",
+      "id": "d4d9d",
+      "name": "window.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "258bd": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@258bd",
+      "displayName": "",
+      "id": "258bd",
+      "name": "lightFront.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54cc9": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@54cc9",
+      "displayName": "",
+      "id": "54cc9",
+      "name": "lightBack.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d932": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@0d932",
+      "displayName": "",
+      "id": "0d932",
+      "name": "lightBlue.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71e2": {
+      "importer": "gltf-material",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@e71e2",
+      "displayName": "",
+      "id": "e71e2",
+      "name": "carTire.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b372": {
+      "importer": "gltf-scene",
+      "uuid": "565aafba-fa65-46bc-b781-06491a1f8b06@9b372",
+      "displayName": "",
+      "id": "9b372",
+      "name": "tractorPolice.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "565aafba-fa65-46bc-b781-06491a1f8b06@0b59d",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@03a61",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@68c67",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@6f527",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@f4ab9",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@9e7a1",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@8720f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "565aafba-fa65-46bc-b781-06491a1f8b06@f8f3e",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@43adf",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@d4d9d",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@258bd",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@0ee4f",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@54cc9",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@0d932",
+        "565aafba-fa65-46bc-b781-06491a1f8b06@e71e2"
+      ],
+      "scenes": [
+        "565aafba-fa65-46bc-b781-06491a1f8b06@9b372"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

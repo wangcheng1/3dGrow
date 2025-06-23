@@ -1,0 +1,258 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f",
+  "files": [],
+  "subMetas": {
+    "50656": {
+      "importer": "gltf-material",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@50656",
+      "displayName": "",
+      "id": "50656",
+      "name": "paintYellow.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b59d": {
+      "importer": "gltf-mesh",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@0b59d",
+      "displayName": "",
+      "id": "0b59d",
+      "name": "body_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 740
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f527": {
+      "importer": "gltf-mesh",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@6f527",
+      "displayName": "",
+      "id": "6f527",
+      "name": "wheel_backLeft_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4ab9": {
+      "importer": "gltf-mesh",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@f4ab9",
+      "displayName": "",
+      "id": "f4ab9",
+      "name": "wheel_backRight_Material0.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e7a1": {
+      "importer": "gltf-mesh",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@9e7a1",
+      "displayName": "",
+      "id": "9e7a1",
+      "name": "wheel_frontLeft_Material0.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8720f": {
+      "importer": "gltf-mesh",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@8720f",
+      "displayName": "",
+      "id": "8720f",
+      "name": "wheel_frontRight_Material0.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43adf": {
+      "importer": "gltf-material",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@43adf",
+      "displayName": "",
+      "id": "43adf",
+      "name": "plastic.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13d5e": {
+      "importer": "gltf-material",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@13d5e",
+      "displayName": "",
+      "id": "13d5e",
+      "name": "paintBlue.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4d9d": {
+      "importer": "gltf-material",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@d4d9d",
+      "displayName": "",
+      "id": "d4d9d",
+      "name": "window.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71e2": {
+      "importer": "gltf-material",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@e71e2",
+      "displayName": "",
+      "id": "e71e2",
+      "name": "carTire.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb1e5": {
+      "importer": "gltf-scene",
+      "uuid": "596c3149-077d-4c38-8b91-9e8098b4f47f@cb1e5",
+      "displayName": "",
+      "id": "cb1e5",
+      "name": "raceFuture.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@0b59d",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@6f527",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@f4ab9",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@9e7a1",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@8720f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@43adf",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@13d5e",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@0ee4f",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@d4d9d",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@e71e2",
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@50656"
+      ],
+      "scenes": [
+        "596c3149-077d-4c38-8b91-9e8098b4f47f@cb1e5"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

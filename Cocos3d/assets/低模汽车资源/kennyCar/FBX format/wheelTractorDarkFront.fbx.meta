@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d33f42cc-1dd1-4acb-9648-0406c5b08f84",
+  "files": [],
+  "subMetas": {
+    "73cb9": {
+      "importer": "gltf-mesh",
+      "uuid": "d33f42cc-1dd1-4acb-9648-0406c5b08f84@73cb9",
+      "displayName": "",
+      "id": "73cb9",
+      "name": "wheelTractorDarkFront_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 284
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71e2": {
+      "importer": "gltf-material",
+      "uuid": "d33f42cc-1dd1-4acb-9648-0406c5b08f84@e71e2",
+      "displayName": "",
+      "id": "e71e2",
+      "name": "carTire.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43adf": {
+      "importer": "gltf-material",
+      "uuid": "d33f42cc-1dd1-4acb-9648-0406c5b08f84@43adf",
+      "displayName": "",
+      "id": "43adf",
+      "name": "plastic.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44a77": {
+      "importer": "gltf-scene",
+      "uuid": "d33f42cc-1dd1-4acb-9648-0406c5b08f84@44a77",
+      "displayName": "",
+      "id": "44a77",
+      "name": "wheelTractorDarkFront.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "d33f42cc-1dd1-4acb-9648-0406c5b08f84@73cb9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d33f42cc-1dd1-4acb-9648-0406c5b08f84@e71e2",
+        "d33f42cc-1dd1-4acb-9648-0406c5b08f84@43adf"
+      ],
+      "scenes": [
+        "d33f42cc-1dd1-4acb-9648-0406c5b08f84@44a77"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
