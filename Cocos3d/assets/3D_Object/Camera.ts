@@ -72,17 +72,16 @@ export class Camera2 extends Component {
             // 获取碰撞物体的RigidBody组件（用于施加力）
             const rigidBody = collider.node.getComponent(RigidBody);
             if (rigidBody) {
-                // 计算力的方向：射线的direction（已归一化）
-                const forceDirection = ray.d.clone().normalize();
 
-                // 定义力的大小（示例：固定值1000，可根据需求调整）
-                const forceMagnitude = 1000;
 
+       
+                const forceMagnitude = 100;
                 // 计算最终的力向量（方向×大小）
-                const force = forceDirection.multiplyScalar(forceMagnitude);
-                const relativePoint = new math.Vec3(0, 0.5, 0);
-                // 施加力到物体的质心（ForceMode.Force表示持续力）
-                rigidBody.applyForce(force, relativePoint);
+                // 计算力方向：射线方向 * 力大小
+                const forceDir = new Vec3(ray.d.x, ray.d.y, ray.d.z).multiplyScalar(forceMagnitude);
+
+                // 在碰撞点施加力
+                rigidBody.applyForce(forceDir, hitPoint);
 
             }
 
